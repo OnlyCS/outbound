@@ -1,0 +1,9 @@
+[package]
+name = "outbound"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.34"
+rocket = "0.5.0"
+sha256 = "1.5.0"
